@@ -1,17 +1,13 @@
 # A Brief Guide of Python for Geophysics
 
-
-
-## Estimate the deformation velocity map on Fernandina volcano, Galapagos      
-
 Goal: estimate a 2D linear velocity filed in space from a 3D time-series dataset (2D in space, 1D in time)
 
 1. read dataset from file timeseries.h5
 2. build functional model and design matrix and convert it into code
 3. esitmate velocity and plot it.
 
-### Test data: [link](https://miami.box.com/s/luq196xrqlunlvugbti2204z7d7zofmo)
-
+### Estimate the deformation velocity map on Fernandina volcano, Galapagos    
+Test data: [link](https://miami.box.com/s/luq196xrqlunlvugbti2204z7d7zofmo)
 
 ## Useful Resources:    
  * [scientific-python-lectures](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/tree/master/)
