@@ -12,6 +12,7 @@ Goal: estimate a 2D linear velocity filed in space from a 3D time-series dataset
 
 ### Test data: [link](https://miami.box.com/s/luq196xrqlunlvugbti2204z7d7zofmo)
 
+# commits from other contributors
 
 ## Useful Resources:    
  * [scientific-python-lectures](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/tree/master/)
